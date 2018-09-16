@@ -1,0 +1,101 @@
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>salmon correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+parameter : -3.825305 14.547930 140.899809 ===>wrong
+parameter : -3.825305 14.547930 140.899809 ===>seabass correct
+error rate : 0.110000

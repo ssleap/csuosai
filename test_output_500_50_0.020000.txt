@@ -1,0 +1,101 @@
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>salmon correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+parameter : -1.002796 12.850483 -49.426854 ===>wrong
+parameter : -1.002796 12.850483 -49.426854 ===>seabass correct
+error rate : 0.170000

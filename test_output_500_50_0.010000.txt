@@ -1,0 +1,101 @@
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>salmon correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>wrong
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+parameter : -4.567754 14.054085 191.218314 ===>seabass correct
+error rate : 0.110000

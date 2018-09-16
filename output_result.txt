@@ -1,0 +1,10 @@
+body : 60 , tail : 11 => salmon
+body : 68 , tail : 18 => salmon
+body : 80 , tail : 15 => salmon
+body : 75 , tail : 13 => salmon
+body : 84 , tail : 20 => salmon
+body : 99 , tail : 12 => bass
+body : 102 , tail : 9 => bass
+body : 110 , tail : 5 => bass
+body : 85 , tail : 8 => bass
+body : 82 , tail : 7 => bass

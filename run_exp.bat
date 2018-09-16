@@ -1,0 +1,6 @@
+python.exe 2015920040.py 500 50 0.01
+python.exe 2015920040.py 500 50 0.02
+python.exe 2015920040.py 500 100 0.1
+python.exe 2015920040.py 800 50 0.01
+python.exe 2015920040.py 800 100 0.1
+pause
